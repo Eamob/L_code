@@ -1,5 +1,3 @@
-﻿  myqueue.cpp
-  mystack.cpp
-  正在生成代码...
-mystack.obj : error LNK2005: _main 已经在 myqueue.obj 中定义
-F:\C++ && Machine Vision && Python\C++\Data Structure\Github\L_code\leecode\Debug\leecode.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
+﻿  removeDuplicates.cpp
+F:\C++ && Machine Vision && Python\C++\Data Structure\Github\L_code\leecode\RemoveDuplicates.h(17,27): warning C4018: “<”: 有符号/无符号不匹配
+  leecode.vcxproj -> F:\C++ && Machine Vision && Python\C++\Data Structure\Github\L_code\leecode\Debug\leecode.exe

@@ -1,5 +1,5 @@
 #include"myqueue.h"
-int main()
+/*int main()
 {
 	MyQueue* myQueue = new MyQueue();
 	myQueue->push(1); // queue is: [1]
@@ -7,4 +7,4 @@ int main()
 	myQueue->peek(); // return 1
 	myQueue->pop(); // return 1, queue is [2]
 	myQueue->empty(); // return false
-}
+}*/

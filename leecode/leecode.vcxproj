@@ -139,14 +139,25 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="baseball_game.cpp" />
     <ClCompile Include="min_stack.cpp" />
     <ClCompile Include="myqueue.cpp" />
     <ClCompile Include="mystack.cpp" />
+    <ClCompile Include="removeDuplicates.cpp" />
+    <ClCompile Include="String_with_backspace.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Baseball_game4.h" />
+    <ClInclude Include="BuildArray.h" />
+    <ClInclude Include="makeGood.h" />
+    <ClInclude Include="minOperations.h" />
     <ClInclude Include="min_stack.h" />
     <ClInclude Include="myqueue.h" />
     <ClInclude Include="mystack.h" />
+    <ClInclude Include="next_bigger_element.h" />
+    <ClInclude Include="RemoveDuplicates.h" />
+    <ClInclude Include="Remove_Outer_Parentheses.h" />
+    <ClInclude Include="String_with_backspace.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

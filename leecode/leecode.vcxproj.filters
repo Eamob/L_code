@@ -24,6 +24,15 @@
     <ClCompile Include="myqueue.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="baseball_game.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="String_with_backspace.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="removeDuplicates.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="min_stack.h">
@@ -33,6 +42,30 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="myqueue.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="next_bigger_element.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Baseball_game4.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="String_with_backspace.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Remove_Outer_Parentheses.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RemoveDuplicates.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BuildArray.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="makeGood.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="minOperations.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
