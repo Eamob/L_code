@@ -1,2 +1,2 @@
-F:\C++ && Machine Vision && Python\C++\Data Structure\Github\L_code\leecode\Debug\leecode.exe
-F:\C++ && Machine Vision && Python\C++\Data Structure\Github\L_code\leecode\Debug\leecode.pdb
+F:\C++ && Machine Vision && Python\C++\Data Structure\Github\L_code\leecode\Debug\Stack_Easy.exe
+F:\C++ && Machine Vision && Python\C++\Data Structure\Github\L_code\leecode\Debug\Stack_Easy.pdb

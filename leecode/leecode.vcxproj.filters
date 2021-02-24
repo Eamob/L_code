@@ -68,5 +68,11 @@
     <ClInclude Include="minOperations.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="CQueue.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MinStack.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
