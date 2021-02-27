@@ -18,5 +18,26 @@
     <ClInclude Include="maxProfit.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="isSubsequence.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="findContentChildren.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="canPlaceFlowers.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="lemonadeChange.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="robotSim.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="minDeletionSize.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="largestSumAfterKNegations.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

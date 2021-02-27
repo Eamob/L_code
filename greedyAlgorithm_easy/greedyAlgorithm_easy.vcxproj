@@ -139,7 +139,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="canPlaceFlowers.h" />
+    <ClInclude Include="findContentChildren.h" />
+    <ClInclude Include="isSubsequence.h" />
+    <ClInclude Include="largestSumAfterKNegations.h" />
+    <ClInclude Include="lemonadeChange.h" />
     <ClInclude Include="maxProfit.h" />
+    <ClInclude Include="minDeletionSize.h" />
+    <ClInclude Include="robotSim.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
